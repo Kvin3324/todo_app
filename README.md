@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<em>Languages: Javascript, Ruby on Rails, SASS</em>
 
-Things you may want to cover:
+It's a Todo App where you can:
 
-* Ruby version
+* Display yours activities
+* Add a task
+* Edit a task
+* Delete a task
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
