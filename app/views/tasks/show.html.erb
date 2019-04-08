@@ -1,0 +1,14 @@
+<div class="container d-fluid">
+    <%= link_to edit_task_path(@task.id), class:"btn btn-primary" do %>
+        <i class="fa fa-pencil"></i> Edit this task
+    <% end %>
+
+    <div class="container">
+    <h2> <%= @task.title %></h2>
+    <div class="details">
+        <p><%= @task.details %></p>
+    </div>
+    </div>
+
+    <%= link_to "Back to your list", tasks_path %>
+</div>
