@@ -1,0 +1,6 @@
+I"Gimport Task from "./Task.js";
+
+console.log("okkok");
+
+new Task();
+:ET

@@ -1,0 +1,7 @@
+I"T(function() {
+  console.log("okkok");
+
+  console.log(addTask);
+
+}).call(this);
+:ET

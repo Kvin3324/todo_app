@@ -1,5 +1,5 @@
 <div class="container d-fluid">
-    <h1>Create a new task</h1>
+    <h1 class="new--task--title">Create a new task</h1>
 
     <%= form_for(@task) do |f| %>
     <div class="form-group">
@@ -12,7 +12,7 @@
         <%= f.text_field :details, class: 'form-control' %>
     </div>
 
-    <%= f.submit class: 'btn btn-primary' %>
+    <%= f.submit class: 'btn btn-primary create--btn' %>
 
     <% end %>
 </div>
