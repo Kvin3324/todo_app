@@ -1,6 +1,12 @@
 # README
 
-<em>Languages: Javascript, Ruby on Rails, SASS</em>
+<em>Languages: Ruby on Rails, SASS</em>
+
+To load the app:
+
+`git clone`
+`bundle install`
+`rails s`
 
 It's a Todo App where you can:
 
